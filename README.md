@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a sport quest app !(coming-soon)
 
-- 🌱 I’m currently learning **Java, angular and kotlin !**
+- 🌱 I’m currently learning **Java, angular !**
 
 - 👯 I’m looking to collaborate on **everything my skills are needed**
 
