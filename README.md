@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **everything my skills are needed**
 
-- 📝 I regularly write articles on My blog will be out soon :)
+- 📝 My blog will be out soon :)
 
 - 📫 How to reach me **samuelstefancic@gmail.com**
 
