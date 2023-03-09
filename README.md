@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Stefancic</h1>
 <h3 align="center">A truly passionate fullstack developper from France</h3>
 
-- 🔭 I’m currently working on a sport quest app !(coming-soon)
+- 🔭 I’m currently working on a sport quest app ! (coming-soon)
 
 - 🌱 I’m currently learning **Java, angular !**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences Front-end, webdesigner and project manager !
 
-- ⚡ Fun fact **i LOVE developpement !**
+- ⚡ Fun fact :  **I LOVE developpement !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
