@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences Front-end, webdesigner and project manager !
 
-- ⚡ Fun fact **I LOVE developpement !**
+- ⚡ Fun fact **i LOVE developpement !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
