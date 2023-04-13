@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on a budget management app ! [(You can find it here)](https://github.com/samuelstefancic/expenseApp)
 
-- 🌱 I’m currently learning **Java, angular !**
+- 🌱 I’m currently on  **Java, angular !**
 
 - 👯 I’m looking to collaborate on **everything my skills are needed**
 
-- 📝 My blog will be out soon :)
+- 📝 My personal blog page is not ready yet, I'm aiming on a brand whole blog
 
 - 📫 How to reach me **samuelstefancic@gmail.com**
 
