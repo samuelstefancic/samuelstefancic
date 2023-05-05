@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Stefancic</h1>
 <h3 align="center">A truly passionate fullstack developper from France</h3>
 
-- 🔭 I’m currently working on a budget management app ! [(You can find it here)](https://github.com/samuelstefancic/expenseApp)
+- 🔭 I’m currently working on a budget management app ! [(You can find it here)](https://github.com/samuelstefancic/expenseApp), i'm actually working on a update including mail server in my SantaSecretApp, which will lead in a non possibility to check it from outside.
 
 - 🌱 I’m currently on  **Java, angular !**
 
