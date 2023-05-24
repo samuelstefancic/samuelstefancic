@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Stefancic</h1>
 <h3 align="center">A truly passionate fullstack developper from France</h3>
 
-- 🔭 I’m currently working on a Secret Santta app ! The version available  [(here)](https://github.com/samuelstefancic/secretSantaAppLegacy) is a legacy App, with all the logic of security yet to be implemented as roles, permissions, access control check, type of security, etc ! Due to thoses facts, and for the future updates, there will be a new, private repo that will only be accessible if i'm trusting you or if I have to show my work.
+- 🔭 I’m currently working on a Secret Santa app ! The version available  [(here)](https://github.com/samuelstefancic/secretSantaAppLegacy) is a legacy App, with all the logic of security yet to be implemented as roles, permissions, access control check, type of security, etc ! Due to thoses facts, and for the future updates, there will be a new, private repo that will only be accessible if i'm trusting you or if I have to show my work.
 
 - 🌱 I’m currently on  **Java, angular !**
 
