@@ -1,3 +1,7 @@
+
+projet is on hiatus, cant connect with my code anymore, can t feel anything, just want the darkness to swallow me 
+
+
 <h1 align="center">Hi 👋, I'm Samuel Stefancic</h1>
 <h3 align="center">A truly passionate fullstack developper from France</h3>
 
