@@ -1,4 +1,5 @@
 looking for devs who handle gpt api
+buuidling a orinect sport based 
 <h1 align="center">Hi 👋, I'm Samuel Stefancic</h1>
 <h3 align="center">A truly passionate fullstack developper from France</h3>
 
