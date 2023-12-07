@@ -1,4 +1,3 @@
-looking for developpers to create a new applicztion
 <h1 align="center">Hi 👋, I'm Samuel Stefancic</h1>
 <h3 align="center">A truly passionate fullstack developper from France</h3>
 
